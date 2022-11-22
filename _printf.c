@@ -1,17 +1,13 @@
-/**
- * Filename: _printf.c
- * Authors: Onuora Chidimma and Chika Achebe
- */
-
 #include "main.h"
 
 /**
- *_printf - displays to the stdout according to a format
- *@format: format string containg the characters and specifiers
- *Description: This function calls get_print(). get_priint() function
- *determines what to print depending on the format
- *specifiers contained in @fmt
- *Return: length of the formatted output string.
+ * _printf - displays to the stdout according to a format
+ * @format: format string containg the characters and specifiers
+ * Description: This function calls get_print(). get_priint() function
+ * determines what to print depending on the format
+ * specifiers contained in @fmt
+ *
+ * Return: length of the formatted output string.
  */
 
 int _printf(const char *format, ...)

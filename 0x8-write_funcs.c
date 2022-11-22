@@ -1,8 +1,3 @@
-/**
- * Filename: 0x8-write_funcs.c
- * Authors: Onuora Chidimma and Chika Achebe
- */
-
 #include "main.h"
 #include <unistd.h>
 

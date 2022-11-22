@@ -1,8 +1,3 @@
-/**
- * Filename: 0x1-get_flags.c
- * Authors: Onuora Chidimma and Achebe Chika
- */
-
 #include "main.h"
 
 /**

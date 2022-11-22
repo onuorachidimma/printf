@@ -1,8 +1,3 @@
-/**
- * Filename: 0x7-print_nums.c
- * Authors: Onuora Chidimma and Acheb Chika
- */
-
 #include "main.h"
 
 /**

@@ -1,8 +1,3 @@
-/**
- * Filename: 0x0_converter.c
- * Aurhors: Onuora Chidimma and Chika Achebe
- */
-
 #include "main.h"
 
 /**
